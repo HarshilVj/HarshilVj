@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/735e3733-24ba-4e1d-b3e5-0534907e68aa" width="300px">
+</p>
+
+
+
 
 <h1 align="center">Hi there 👋, I'm Harshil Vijay</h1>
 
