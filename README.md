@@ -13,7 +13,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎯 I’m working toward becoming an **AI Engineer** by diving deep into **Machine Learning**, **Deep Learning**, and **Data Science**.
 - 🧠 I love creating **cutting-edge solutions** that bridge theory and real-world application.
@@ -27,7 +27,7 @@
 <hr style="border: none; height: 1px; background: linear-gradient(to right, #00f260, #0575e6); margin: 20px 0;" />
 
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -53,27 +53,27 @@
 <hr style="border: none; height: 1px; background: linear-gradient(to right, #00f260, #0575e6); margin: 20px 0;" />
 
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilVj&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilVj&theme=neon&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilVj&layout=compact&theme=radical&v=1" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshilVj&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilVj&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<!-- <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=HarshilVj&show_icons=true&theme=radical&v=1" alt="GitHub Stats" /> 
+ 
+</p> -->
 
 ---
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, #00f260, #0575e6); margin: 20px 0;" />
 
 
-### 🤝 Let’s Connect
+## 🤝 Let’s Connect
 
 <p>
   <a href="mailto:harshilvijay397@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  
   <a href="https://www.linkedin.com/in/harshil-vijay-4168802a0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
