@@ -56,8 +56,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilVj&theme=neon&v=1" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilVj&layout=compact&theme=radical&v=1" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilVj&theme=neon&v=2" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilVj&layout=compact&theme=radical&v=2" alt="Top Languages" />
 </p>
 
 <!-- <p align="center">
@@ -79,7 +79,7 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=27F779&center=true&vCenter=true&width=435&lines=Welcome+to+Harshil's+GitHub+Terminal;AI+Engineer+in+the+Making;Stay+Curious+%26+Keep+Building!",width="100%">
-</p>
+</p>  -->
 
